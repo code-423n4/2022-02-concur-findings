@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "samruna",
+  "address": "0x6431AF0193561EA15db772145472564cb2DfFd0c",
+  "risk": "2",
+  "title": "Duplicate zero check",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/11"
+}
