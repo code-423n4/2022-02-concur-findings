@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "ckksec",
+  "address": "0x961D63F796Aa1fb2218fa8B5d9c06d3354773Ccd",
+  "risk": "2",
+  "title": "Possible reentrancy in reward function",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/3"
+}
