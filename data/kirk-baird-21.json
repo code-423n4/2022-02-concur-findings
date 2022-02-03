@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "3",
+  "title": "Reward Calculations Do Not Account for Multiple `pid` with the Same Reward Tokens",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/21"
+}
