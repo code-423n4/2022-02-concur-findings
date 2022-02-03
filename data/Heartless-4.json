@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "Heartless",
+  "address": "0x107030B1E30a4022b5a886ac8b1FDAd18B829788",
+  "risk": "2",
+  "title": "Unsafe casts in ConvexStakingWrapper",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/4"
+}
