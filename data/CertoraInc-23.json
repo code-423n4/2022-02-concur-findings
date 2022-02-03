@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "CertoraInc",
+  "address": "0xD0B90DEE950195A846ec7d9F7ebC7f45CEc7B9cC",
+  "risk": "2",
+  "title": "`pendingConcur`doesn't account for the `endBlock`",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/23"
+}
