@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "0x510c",
+  "address": "0xEe7a76717A182537B8b8F242d749C63b73AAC4e6",
+  "risk": "G",
+  "title": "add() in the MasterChef.sol contract is marked Public.",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/40"
+}
