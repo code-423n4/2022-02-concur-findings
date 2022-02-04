@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "kenta",
+  "address": "0x4eA563d048B56bB90528A6C37869184183ec890f",
+  "risk": "G",
+  "title": "Check amount at the beginning of code must save gas in deposit()/ConvexStakingWrapper.sol.",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/39"
+}
