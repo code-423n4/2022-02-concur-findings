@@ -17,29 +17,31 @@ As a sponsor, you have four critical tasks in the contest process:
 
 Let's walk through each of these.
 
-## Handle duplicates
+## High and Medium Risk Issues
 
-Because the wardens are submitting issues without seeing each others' submissions, there will always be findings that are clear duplicates. Other findings may use different language which ultimately describes the same issue but from different angles. Use your best judgement in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
+### Handle duplicates
 
-1. Determine the best and most thorough description of the finding among the set of duplicates. (At least a portion of the content of the most useful description will be used in the audit report.)
+Because the wardens are submitting issues without seeing each others' submissions, there will always be findings that are clear duplicates. Other findings may use different language that ultimately describes the same issue, but from different angles. Use your best judgment in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
+
+1. For all issues labeled `3 (High Risk)` or `2 (Medium Risk)`, determine the best and most thorough description of the finding among the set of duplicates. (At least a portion of the content of the most useful description will be used in the audit report.)
 2. Close the other duplicate issues and label them with `duplicate`
 3. Mention the primary issue # when closing the issue (using the format `Duplicate of #issueNumber`), so that duplicate issues get linked.
 
-## Weigh in on severity 
+### Weigh in on severity 
 
-Judges have the ultimate discretion in determining severity of issues as well as whether/how issues are considered duplicates. However, sponsor input is a significant criteria.
+Judges have the ultimate discretion in determining severity of issues, as well as whether/how issues are considered duplicates. However, sponsor input is a significant criteria.
 
 For a detailed breakdown of severity criteria and how to estimate risk, please refer to [the judging criteria in our documentation](https://docs.code4rena.com/roles/wardens/judging-criteria#estimating-risk-tl-dr).
 
-If you disagree with a finding's severity, **leave the original severity label set by the warden and add the label** `disagree with severity` along with comment indicating your opinion for the judges to review. It is possible for issues to be considered `0 (Non-critical)`.
+If you disagree with a finding's severity, **leave the original severity label set by the warden and add the label** `disagree with severity`, along with a comment indicating your opinion for the judges to review. It is possible for issues to be considered `0 (Non-critical)`.
 
-Feel free to use the `question` label to anything you would like additional C4 input on.
+Feel free to use the `question` label for anything you would like additional C4 input on.
 
 **Please don't change the severity labels;** that's up to the judge's discretion. 
 
-## Respond to issues
+### Respond to issues
 
-Label each finding as one of these:
+Label each High or Medium risk finding as one of these:
 
 - `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it."
 - `sponsor disputed`, meaning either: "We cannot duplicate this issue" or "We disagree that this is an issue at all."
@@ -48,6 +50,18 @@ Label each finding as one of these:
 (Note: please *don't* use `sponsor disputed` for a finding if you think it should be considered of lower or higher severity. Instead, use the label `disagree with severity` and add comments to recommend a different severity level -- and include your reasoning.)
 
 Add any necessary comments explaining your rationale for your evaluation of the issue. Note that when the repo is public, after all issues are mitigated, wardens will read these comments.
+
+## QA and Gas Reports
+
+For contests starting on or after February 3, 2022, C4 introduced a mechanism change for low and non-critical findings, as well as gas optimizations. All warden submissions in these three categories should now be submitted as bulk listings of issues and recommendations: 
+
+- **[QA reports](https://docs.code4rena.com/roles/wardens/judging-criteria#qa-reports-low-non-critical)** should include *all* low severity and non-critical findings, along with a summary statement.
+- **[Gas reports](https://docs.code4rena.com/roles/wardens/judging-criteria#gas-reports)** should include *all* gas optimization recommendations, along with a summary statement. 
+
+For QA and Gas reports, we ask that you: 
+
+- Leave a comment for the judge on any reports you consider to be particularly high quality. (These reports will be awarded on a curve.)
+- Add the `sponsor disputed` label to any reports that you think should be *completely* disregarded by the judge, i.e. the report contains no valid findings at all.
 
 ## Once de-duping and labelling is complete
 
