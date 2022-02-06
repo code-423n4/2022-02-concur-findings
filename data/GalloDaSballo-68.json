@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "2",
+  "title": "Generic Re-Entrancy on `ConcurRewardPool.claimRewards`",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/68"
+}
