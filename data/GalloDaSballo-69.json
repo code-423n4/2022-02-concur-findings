@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "2",
+  "title": "StakingRewards.recoverERC20 allows owner to rug the `rewardsToken`",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/69"
+}
