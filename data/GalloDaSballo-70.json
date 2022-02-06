@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "3",
+  "title": "USDMPegRecovery Risk of fund locked, due to discrepancy between curveLP token value against internal contract math",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/70"
+}
