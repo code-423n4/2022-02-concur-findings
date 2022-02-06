@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429C6d3340449bC828E4218F360672",
+  "risk": "3",
+  "title": "Shelter.withdraw doesn't check for  `claimed[_token][_to] ` meaning user can withdraw until contract is drained",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/71"
+}
