@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "3",
+  "title": "`MasterChef` Uses Outdated Pool Values And Can Be Abused To Receive Concur Tokens At No Cost",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/101"
+}
