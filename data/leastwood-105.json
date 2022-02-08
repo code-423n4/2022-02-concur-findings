@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "2",
+  "title": "`MasterChef.deposit` Does Not Allow The Contract Owner To Receive `depositFee`",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/105"
+}
