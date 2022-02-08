@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "GeekyLumberjack",
+  "address": "0xC63E80f0094aE02CD5C12d121336b41420a27dd2",
+  "risk": "3",
+  "title": "withdraw in Shelter.sol can drain funds",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/114"
+}
