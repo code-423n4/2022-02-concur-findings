@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "ConvexStakingWrapper deposits and withdraws will frequently be disabled if a token that doesn't allow zero value transfers will be added as a reward one",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/231"
+}
