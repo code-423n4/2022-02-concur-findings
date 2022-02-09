@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "Rhynorater",
+  "address": "0xF84f301891Fe36BAF4B056290B528814dCD83B51",
+  "risk": "3",
+  "title": "Potential Re-entrancy Attack via ETH or ERC777 Token Transfer",
+  "issueId": 260,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/260"
+}
