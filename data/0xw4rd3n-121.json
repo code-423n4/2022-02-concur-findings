@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "0xw4rd3n",
+  "address": "0x2247dC43CdCDd4b7594f9b0bcC8117B9a6D52377",
+  "risk": "3",
+  "title": "Transfer to claimContract can register as succeeded when failing in `_calcRewardIntegral`",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/121"
+}
