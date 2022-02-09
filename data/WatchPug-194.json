@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] `ConvexStakingWrapper#deposit()` depositors may lose their funds when the `_amount` is huge",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/194"
+}
