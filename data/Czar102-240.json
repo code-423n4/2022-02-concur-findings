@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "Czar102",
+  "address": "0x52cAC9F2df3068107c95DB3Acf3f6B1256d75E45",
+  "risk": "3",
+  "title": "Block miscalculations",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/240"
+}
