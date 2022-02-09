@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "bitbopper",
+  "address": "0xe15f11FF2364311E0b7250AaA51A2bB4D7FBA37F",
+  "risk": "3",
+  "title": "Shelter.sol can be withdrawn from multiple times",
+  "issueId": 155,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/155"
+}
