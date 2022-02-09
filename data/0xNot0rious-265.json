@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "0xNot0rious",
+  "address": "0x92c179DA4b3F27FA07263fEa5d8921602b6D14DE",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 265,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/265"
+}
