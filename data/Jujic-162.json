@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "3",
+  "title": "Reentrancy attack is possible",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/162"
+}
