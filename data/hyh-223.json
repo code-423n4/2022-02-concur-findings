@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "StakingRewards.setRewardsDuration allows setting near zero or enormous rewardsDuration, which breaks reward logic",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/223"
+}
