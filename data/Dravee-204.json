@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "2",
+  "title": "Timelock for `StakingRewards.sol:recoverERC20()`",
+  "issueId": 204,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/204"
+}
