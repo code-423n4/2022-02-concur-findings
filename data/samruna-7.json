@@ -2,7 +2,7 @@
   "contest": 83,
   "handle": "samruna",
   "address": "0x6431AF0193561EA15db772145472564cb2DfFd0c",
-  "risk": "1",
+  "risk": "Q",
   "title": "Improve code readability",
   "issueId": 7,
   "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/7"
