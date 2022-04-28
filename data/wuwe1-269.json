@@ -1,0 +1,9 @@
+{
+  "contest": 83,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "2",
+  "title": "Potential reentrance in `claimRewards`",
+  "issueId": 269,
+  "issueUrl": "https://github.com/code-423n4/2022-02-concur-findings/issues/269"
+}
